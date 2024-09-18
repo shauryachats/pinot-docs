@@ -176,7 +176,7 @@ To use the Pool-Based Instance Assignment, each server should be assigned to a p
   },
   "mapFields": {
     "pool": {
-      "Tag1_OFFLINE": 1
+      "Tag1_OFFLINE": 2
     }
   },
   ...
